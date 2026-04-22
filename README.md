@@ -25,12 +25,12 @@ About the Approach:
     cv2.circle(frame, (cx, cy), 5, (255, 0, 255), cv2.FILLED)
 
 
-  How to run:
+How to run:
   
-  - Install dependencies:
+- Install dependencies:
       pip install ultralytics opencv-python cvzone numpy
-  - Change the path of Video and Mask
-  - Run the counter:
+- Change the path of Video and Mask
+- Run the counter:
       python traffic.py
 
 
